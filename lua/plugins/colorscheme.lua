@@ -4,7 +4,7 @@ return {
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = { "ayu-mirage" },
+      colorscheme = { "gruvbox" },
     },
   },
 }
